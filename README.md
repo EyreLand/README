@@ -1,2 +1,13 @@
-# README
-About some people who need to be told to visit the page.
+# 艾尔大陆
+需要给造访者的一些信息！
+
+A Minecraft Bedrock Server
+
+这是一个BDS的基岩服务器项目，如你所见，他正在被开发.
+
+我们使用了许多自制的规则，以及材质（音效）  
+这个服务器包含了许多有趣的玩法，我为了达到他在每个人心中的预期，花费了接近半年的时间（不除期间开发停滞）
+
+# 了解更多
+我们的官方网站：  
+https://motd.cool/
